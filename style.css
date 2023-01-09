@@ -1,0 +1,159 @@
+/* #box {
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    margin: 200px 0 0 200px;
+  }  */
+
+  /* body{
+    font-family: Tahoma;
+    font-size: 1.2em;
+  }
+  #wrapper{
+    margin: 50px auto 0px auto;
+    width: 80%;
+  }
+  #wrapper > #button{
+    display: inline-block;
+    line-height: 60px;
+    padding: 0 30px;
+    border-radius: 25px;
+    cursor: pointer;
+  }
+
+  .black
+  {
+    color: white;
+    background-color: black;
+  }
+
+  .white{
+    color: black;
+    background-color: white;
+  } */
+
+  /* *{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+    font-family: Arial;
+  }
+  #wrapper{
+    margin: 25px auto 0px auto ;
+    width: 50%;
+  }
+  #wrapper h1{
+    display: block;
+    background-color: #203d3a;
+    color: white;
+    text-align: center;
+    line-height: 75px;
+    border-radius: 15px 15px 0px 0px;
+  }
+
+  #img1{
+    width: 633px;
+  }
+  #img2{
+    width: 633px;
+    height: 400px;
+  }
+
+  #wrapper img{
+    width: 100%;
+    border-radius: 0px 0px 15px 15px;
+    cursor: pointer;
+    filter: grayscale(100%);
+  }
+  /* #wrapper img:hover{
+    filter: grayscale(0%);
+  } 
+  #block1,#block2{
+    width : 100%;
+    float: left;
+    margin-top: 25px;
+
+  } */
+
+  /* *{
+    padding: 0;
+    margin: 0;
+  }
+  body{
+    font-family: Arial;
+  }
+  header{
+    background-color: green;
+    color: white;
+    padding: 15px 0px 20px 40px;
+  }
+ 
+  #title{
+    padding: 10px 0px;
+  }
+  #content{
+    padding: 15px 0px 0px 45px;
+  }
+
+  #content > h3{
+    border-bottom: 2px solid green;
+    padding: 0px 20px 10px 5px;
+    display: inline-block;
+    width: 50%;
+  }
+
+  .list-items{
+    border-bottom: 1px solid gray;
+    padding: 10px 0px;
+  }
+  form{
+    padding-top: 20px;
+  }
+
+  form > input,button{
+    padding: 5px  ;
+  } */
+
+
+  *{
+    padding: 0;
+    margin: 0;
+  }
+
+  body{
+    font-family:  Tahoma;
+  }
+
+  #heading{
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  #container{
+    margin:  15px auto 0 auto;
+    width: 80%;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 20px;
+  }
+
+  .input-div{
+    display: inline-block;
+  }
+
+  .input{
+    padding: 5px 10px ;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width:200px;
+    text-align: center;
+    border-radius: 10px;
+
+  }
+
+  label{
+    font-size: 20px;
+  }
